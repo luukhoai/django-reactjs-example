@@ -136,7 +136,7 @@
 ![Django Main](/django_react_project/static/images/django_main.png)
     
     Go to url `localhost:8000/polls` and check screen.
-![Django Rest Project](/django_react_project/static/images/django_rest_project.png)
+![Django Rest Project](/django_react_project/static/images/django_polls_api.png)
 
 
 ### Setup Npm
@@ -307,7 +307,7 @@
 ```
 
 6. Restart project `python manage.py runserver` and check url `localhost:8000`
-![Django rest react](/django_react_project/static/images/django_rest_project.png)
+![Django rest react](/django_react_project/static/images/django_rest_react.png)
 
 
 
