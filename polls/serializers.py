@@ -1,6 +1,7 @@
 from rest_framework import serializers
 from .models import Polls
 
+
 class PollsSerializer(serializers.ModelSerializer):
 
     class Meta:
